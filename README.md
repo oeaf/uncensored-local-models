@@ -83,7 +83,7 @@
 
 ## 备注
 
-- 本库第 2 名 huihui 的 Qwen3.8-27B 与 awesome-skills 里原单条收录的「Qwen3.8-27B-Uncensored」是**同一个模型仓**，那边是单条索引、这边是归类页，不要重复计数。
+- 本库第 2 名 huihui 的 Qwen3.8-27B 与 awesome-skills 里原单条收录的「Qwen3.8-27B-Uncensored」（JonathanColetti 版 GGUF）是**同一基座（Qwen3.8-27B 去审查）的不同量化仓**，不是同一个仓库；awesome-skills 那条单条现已并入本库，不要重复计数。
 - 数据时点 2026-11-14：下载量、Likes、文件数都会变，选型时以 HF 原页当前状态为准。
 - 「abliterated / heretic」指用消融等手段移除基座模型的拒答倾向，不等于模型能力变强；同名不同作者的再加工质量参差，认准上表链接里的作者仓。
 
